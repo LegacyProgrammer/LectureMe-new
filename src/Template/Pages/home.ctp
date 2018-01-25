@@ -39,19 +39,15 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     </title>
 
     <?= $this->Html->meta('icon') ?>
-    <?= $this->Html->css('base.css') ?>
-    <?= $this->Html->css('cake.css') ?>
-    <?= $this->Html->css('home.css') ?>
     <?= $this->Html->css('materialize.css')?>
+    <?= $this->Html->css('materialize.min.css')?>
+    <?= $this->Html->css('style.css')?>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="apple-itunes-app" content="app-id=878517979">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <link href="css" rel="stylesheet" type="text/css">
-    <link href="icon" rel="stylesheet">
 
 
-    <!-- This site is optimized with the Yoast SEO plugin v4.9 - https://yoast.com/wordpress/plugins/seo/ -->
     <title>LectureMe | Leeuwenborgh</title>
     <meta name="description" content="#">
     <link rel="canonical" href="#">
@@ -64,17 +60,17 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <meta name="twitter:card" content="summary">
     <meta name="twitter:description" content="#">
     <meta name="twitter:title" content="#">
-    <!-- / Yoast SEO plugin. -->
+
 
     <link rel="dns-prefetch" href="https://code.jquery.com/">
     <link rel="dns-prefetch" href="https://s.w.org/">
     <link href="https://fonts.googleapis.com/css?family=Raleway:500i|Roboto:300,400,700|Roboto+Mono" rel="stylesheet">
 </head>
 
-<body class="home page-template page-template-page-home page-template-page-home-php page page-id-6146">
+<body>
 
 <div class="navbar-fixed">
-    <nav class="white " role="navigation">
+    <nav class="white" role="navigation">
         <div class="container">
             <div class="nav-wrapper">
                 <div id="logo-container">
@@ -83,7 +79,6 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                 <div id="logo-container2" class="right">
                     <a href="#" style="padding-left: 70%" class="brand-logo">Leeuwenborgh</a>
                 </div>
-                </ul>
             </div>
         </div>
 </div>
