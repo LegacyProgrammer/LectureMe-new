@@ -44,7 +44,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <?= $this->Html->css('style.css')?>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="apple-itunes-app" content="app-id=878517979">
+
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
 
 
@@ -74,10 +74,12 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
         <div class="container">
             <div class="nav-wrapper">
                 <div id="logo-container">
-                    <a href="#" class="brand-logo">LectureMe</a>
+                    <img class="logo" src="./img/assets/logo.png" alt="logo">
+                    <img class="logo-background" src="./img/assets/lb-logo-container@2x.png" alt="background logo">
+
                 </div>
                 <div id="logo-container2" class="right">
-                    <a href="#" style="padding-left: 70%" class="brand-logo">Leeuwenborgh</a>
+                    <a href="#" style="padding-left: 70%" class="brand-logo">LectureME</a>
                 </div>
             </div>
         </div>
@@ -107,7 +109,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/juridisch.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Juridisch" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/juridisch.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Juridisch" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Juridisch</span>
                                 </a>
 
@@ -119,7 +121,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/ict.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="ICT-Lyceum" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/ict.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="ICT-Lyceum" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">ICT-Lyceum</span>
                                 </a>
 
@@ -133,7 +135,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/verzorging.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/verzorging.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Verzorging</span>
                                 </a>
                             </div>
@@ -145,7 +147,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/laboratorium.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/laboratorium.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Lab-Techniek</span>
                                 </a>
                             </div>
@@ -157,7 +159,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/techniek.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/techniek.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Techniek</span>
                                 </a>
                             </div>
@@ -169,7 +171,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/logistiek.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/logistiek.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Logistiek</span>
                                 </a>
                             </div>
@@ -180,7 +182,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/Manager-Retail.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/Manager-Retail.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Economie</span>
                                 </a>
                             </div>
@@ -191,7 +193,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/Nederlands.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/Nederlands.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Nederlands</span>
                                 </a>
                             </div>
@@ -203,7 +205,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/engels.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/engels.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Engels</span>
                                 </a>
                             </div>
@@ -215,7 +217,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/projectbegeleiding.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/projectbegeleiding.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span style="font-size: xx-large" class="card-title home">Project-Begeleiding</span>
                                 </a>
                             </div>
@@ -227,7 +229,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/rekenen.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/rekenen.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Rekenen</span>
                                 </a>
                             </div>
@@ -239,7 +241,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                         <div class="card">
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
-                                    <img width="305" height="229" src="./webroot/img/assets/wiskunde.jpg" class="responsive-img wp-post-image" alt="Dispatch Coffee Saint-Laurent" title="Dispatch Coffee Saint-Laurent" sizes="(max-width: 305px) 100vw, 305px">
+                                    <img width="305" height="229" src="./webroot/img/assets/wiskunde.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
                                     <span class="card-title home">Wiskunde</span>
                                 </a>
                             </div>
@@ -365,25 +367,3 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
 
 
     </div>
-
-    <script type="text/rocketscript" data-rocketoptimized="true">
-  analytics.track("Viewed Home Page", {"noninteraction":true}, {"library":"analytics-wordpress"});
-
-</script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/plugins/curation-ambassadors/assets/js/natural-search.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketoptimized="true">
-/* <![CDATA[ */
-var ajax = {"url":"https:\/\/adbeus.com\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/plugins/ultimate-wp-query-search-filter/classes/scripts/uwpqsfscript.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://code.jquery.com/jquery-2.1.4.min.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/themes/adbeus/js/materialize.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/themes/adbeus/js/init.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/themes/adbeus/js/isotope.pkgd.min.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/themes/adbeus/js/jquery.cookie.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-content/themes/adbeus/js/adbeus.js" data-rocketoptimized="true"></script>
-    <script type="text/rocketscript" data-rocketsrc="https://adbeus.com/wp-includes/js/wp-embed.min.js" data-rocketoptimized="true"></script>
-
-
-    <div class="drag-target" style="left: 0px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="lY4eZXm_YWu.html" style="border: none;"></iframe></div></div></div><div class="hiddendiv common"></div><div class="drag-target" style="left: 0px; touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></div></body></html>

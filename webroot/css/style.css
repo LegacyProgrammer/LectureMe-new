@@ -12,6 +12,7 @@ body {
 
   background-image: url(../img/assets/subtle_white_feathers.png);
 }
+
 /* COLORS */
 a {
   color:blue!important;
@@ -72,13 +73,23 @@ hr {
 }
 /* HEADER */
 #logo-container {
-  /*position: absolute;*/
+  position: absolute;
+  left:-4em;
 }
 .brand-logo {
   color:#846C63 !important;
   font-family: 'Abel', sans-serif;
   text-transform: uppercase;
   left:50px;
+}
+.logo{
+  position: absolute;
+  left:2em;
+  top:1em;
+}
+.logo-background {
+  width: 40%;
+  height: 40%;
 }
 .icon {
   position: absolute;
