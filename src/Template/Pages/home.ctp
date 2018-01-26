@@ -79,7 +79,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
 
                 </div>
                 <div id="logo-container2" class="right">
-                    <a href="#" style="padding-left: 70%" class="brand-logo">LectureME</a>
+                    <a href="#" style="padding-left: 70%" class="brand-logo">Lectureme</a>
                 </div>
             </div>
         </div>
