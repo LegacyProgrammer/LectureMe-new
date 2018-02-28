@@ -199,7 +199,7 @@ nav ul a:hover {
 }
 .card .card-action a {
   color: #ff8b1b !important;
-  
+
 }
 /* POST */
 .opening-hours {
@@ -213,7 +213,7 @@ nav ul a:hover {
 .post h2, .blog h2 {
   text-transform: uppercase;
 }
-.single-blog p { 
+.single-blog p {
   font-size: 18px;
 }
 /*.btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i {
@@ -320,7 +320,7 @@ input.search {
 }
 
 @media only screen and (max-width : 992px) {
-  
+
   .parallax-container .section {
     position: absolute;
     top: 40%;
@@ -424,11 +424,15 @@ footer.page-footer {
 }
 .card .card-image .card-title {
   color: #ffab17;
-  position: absolute;
-  top: 4.1em;
+  position: relative;
+  top: 15px;
   bottom: 0;
   left: 0;
   max-width: 100%;
   padding: 24px;
   font-size: 2.5em;
+}
+
+.card .card-image .card-title .small{
+    font-size: larger;
 }

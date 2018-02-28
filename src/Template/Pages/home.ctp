@@ -218,7 +218,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
                             <div class="card-image waves-effect waves-block waves-light">
                                 <a href="#">
                                     <img width="305" height="229" src="./webroot/img/assets/projectbegeleiding.jpg" class="responsive-img wp-post-image" alt="Categorie Leeuwenborgh LectureMe" title="Categorie Leeuwenborgh LectureMe" sizes="(max-width: 305px) 100vw, 305px">
-                                    <span style="font-size: xx-large" class="card-title home">Project-Begeleiding</span>
+                                    <span style="font-size= small;" class="card-title small home">Project-Begeleiding</span>
                                 </a>
                             </div>
                         </div>
@@ -320,50 +320,4 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
             </div>
         </div>
     </footer>
-    <!-- <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
-    <a class="btn-floating btn-large red">
-      <i class="large mdi-editor-mode-edit"></i>
-    </a>
-    <ul>
-      <li><a class="btn-floating red"><i class="large mdi-editor-insert-chart"></i></a></li>
-      <li><a class="btn-floating yellow darken-1"><i class="large mdi-editor-format-quote"></i></a></li>
-      <li><a class="btn-floating green"><i class="large mdi-editor-publish"></i></a></li>
-      <li><a class="btn-floating blue"><i class="large mdi-editor-attach-file"></i></a></li>
-    </ul>
-  </div> -->
-
-    <!-- Subscribe to newsletter email -->
-    <div id="modal1" class="modal">
-
-        <div class="email-cta modal-content" style="display: block;">
-
-            <h4 class="success">All good, we saved your email. <strong>Talk to you soon!</strong></h4>
-
-            <form action="#" class="email-form">
-                <div class="">
-                    <h4>Get notifie</h4>
-                </div>
-
-                <input type="hidden" name="action" value="subEmail">
-                <input type="hidden" name="list_id" value="a4658f122b">
-                <input type="hidden" name="ref" value="New Shops">
-                <input type="hidden" name="newshops" value="yes">
-                <div class="row">
-                    <div class="input-field col s12 l6">
-                        <input id="emailField" type="email" name="email" class="validate" required="">
-                        <label for="emailField">Enter your email</label>
-                    </div>
-
-                    <div class="input-field col s12 l6">
-                        <button class="btn waves-effect waves-light" type="submit" name="action" id="emailSubmit">Keep me posted</button>
-                        <div class="progress">
-                            <div class="indeterminate"></div>
-                        </div>
-                    </div>
-                </div>
-            </form>
-
-        </div>
-
-
-    </div>
+    
